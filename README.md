@@ -1,16 +1,36 @@
 # Solar-and-Battery-System-
 Solar and battery system design
 
+Schematic
+
+CELLS1 and CELLS0 both strapped to INTVcc for 1 cell charging
+
+CSP/CSN and CLP/CLN sense resistor calculations:
+LTC4162EUFD-L42#PBF is a 4.2V Fixed Voltage therefore sense voltage is 50mV
+
+CLP/CLN Input current limit:
+solar panel peak current 540 mA
+sense resistor value = 50mV / 540mA = 100 mΩ
+
+CSP/CSN Battery Charge limit:
+1000 mAh LiFePO₄ cell standard Charge 0.2C
+0.2×1000mAh = 200mA
+sense resistor value = 50mV / 200mA = 250 mΩ
+
+PGND (Pins 23,24): Power ground pins. These pins should 
+be connected to a copper pour that forms the return for 
+the VOUT bypass capacitor on the top layer of the printed 
+circuit board.
+
+
 Sources
 
 lifepo4 cell 3.2v 1000mAh 18500
-[https://en.tongwei.cn/blog/380.html#:~:text=To%20efficiently%20charge%20batteries%20using,monitor%20and%20maintain%20the%20setup.](https://lifepo4-energy.com/18500-lifepo4-battery-1000mah/)
+https://lifepo4-energy.com/18500-lifepo4-battery-1000mah/
 
 Charger for Solar Power
-[https://www.ti.com/lit/ds/symlink/bq25570.pdf?ts=1742385507928&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FBQ25570](https://www.analog.com/media/en/technical-documentation/data-sheets/3652fe.pdf)
+https://www.digikey.co.nz/en/products/detail/analog-devices-inc/LTC4162EUFD-L42-PBF/9446104
 
-Adjust the charge voltage from 4.2V (via the resistor divider) to 3.65V to suit the LiFePO4 cell.
-Should be sufficent circuit protection for battery
 
 Solar panel
 https://wiki.seeedstudio.com/3W_Solar_Panel_138x160/
