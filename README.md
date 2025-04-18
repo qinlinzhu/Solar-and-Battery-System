@@ -1,7 +1,7 @@
 # Solar-and-Battery-System-
 Solar and battery system design
 
-Schematic
+**Schematic**
 
 CELLS1 and CELLS0 both strapped to INTVcc for 1 cell charging
 
@@ -23,7 +23,7 @@ the VOUT bypass capacitor on the top layer of the printed
 circuit board.
 
 
-Sources
+**Sources**
 
 lifepo4 cell 3.2v 1000mAh 18500
 https://lifepo4-energy.com/18500-lifepo4-battery-1000mah/
