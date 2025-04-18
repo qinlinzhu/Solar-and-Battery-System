@@ -2,6 +2,7 @@
 Solar and battery system design
 
 **Schematic**
+
 <sub>
 CELLS1 and CELLS0 both strapped to INTVcc for 1 cell charging
 
