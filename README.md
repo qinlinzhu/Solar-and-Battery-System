@@ -6,7 +6,7 @@ Solar and battery system design
 
 <sub>CELLS1 and CELLS0 both strapped to INTVcc for 1 cell charging</sub>
 
-<sub>**CSP/CSN and CLP/CLN sense resistor calculations:**</sub>
+**CSP/CSN and CLP/CLN sense resistor calculations:**
 
 <sub>LTC4162EUFD-L42#PBF is a 4.2V Fixed Voltage therefore sense voltage is 50mV</sub>
 
