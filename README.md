@@ -25,7 +25,7 @@ the VOUT bypass capacitor on the top layer of the printed
 circuit board.</sub>
 
 
-###**Sources**
+### **Sources**
 
 lifepo4 cell 3.2v 1000mAh 18500
 https://lifepo4-energy.com/18500-lifepo4-battery-1000mah/
