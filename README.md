@@ -3,8 +3,8 @@ Solar and battery system design
 
 **Schematic**
 
-<sub>
-CELLS1 and CELLS0 both strapped to INTVcc for 1 cell charging
+
+<sub>CELLS1 and CELLS0 both strapped to INTVcc for 1 cell charging</sub>
 
 CSP/CSN and CLP/CLN sense resistor calculations:
 LTC4162EUFD-L42#PBF is a 4.2V Fixed Voltage therefore sense voltage is 50mV
@@ -23,7 +23,7 @@ be connected to a copper pour that forms the return for
 the VOUT bypass capacitor on the top layer of the printed 
 circuit board.
 
-</sub>
+
 **Sources**
 
 lifepo4 cell 3.2v 1000mAh 18500
