@@ -1,7 +1,7 @@
 # Solar-and-Battery-System-
 Solar and battery system design
 
-# H1 **Schematic**
+## **Schematic**
 
 
 <sub>CELLS1 and CELLS0 both strapped to INTVcc for 1 cell charging</sub>
