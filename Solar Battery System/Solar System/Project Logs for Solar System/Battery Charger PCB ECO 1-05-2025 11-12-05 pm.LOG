@@ -1,0 +1,22 @@
+Added Component: Designator=R1(RESC6432X89N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSL2512R1000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsl2512r1000fea/vishay?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/2049120.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.889mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSL2512R1000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSL2512R1000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSL2512R1000FEA?qs=ViWNInbc%252BeVuqDCpvibv1w%3D%3D"; VariantName = "[No Variations]"
+Add component: Footprint Not Found RESC1608X55N
+Add component: Footprint Not Found DIP775W63P254L655H458Q4N
+Added Pin To Net: NetName=NetIC1_5 Pin=R1-1
+Added Pin To Net: NetName=VOUTA Pin=R1-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S1-4
+Added Member To Class: ClassName=Battery Charger Member=Component R1 WSL2512R1000FEA
+Add Class Member: Failed to add class member : Component R10 267K oHm
+Add Class Member: Failed to add class member : Component S1 210-2MS
