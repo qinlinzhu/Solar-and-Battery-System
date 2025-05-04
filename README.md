@@ -34,8 +34,8 @@ circuit board.</sub>
 
 ## **Sources**
 
-lifepo4 cell 3.2v 1000mAh 18500
-https://lifepo4-energy.com/18500-lifepo4-battery-1000mah/
+Polymer Lithium Ion Battery (LiPo) 3.7V 1100mAh
+https://core-electronics.com.au/polymer-lithium-ion-battery-1000mah-38458.html?gad_source=1&gad_campaignid=17417005429&gbraid=0AAAAADlEpP4BypRjTHIM-QH-izz26sh7E&gclid=Cj0KCQjwoNzABhDbARIsALfY8VNWuDvetUq-GBXQ4cjKl93gj4okT5_auyfPvCwo57747s87yEsojPgaAkvYEALw_wcB
 
 Charger for Solar Power
 https://www.digikey.co.nz/en/products/detail/analog-devices-inc/LTC4162EUFD-L42-PBF/9446104
