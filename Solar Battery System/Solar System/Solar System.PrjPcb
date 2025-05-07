@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZWOXUYTL
 
 [Document5]
-DocumentPath=..\..\qinlin's Libraries\resistors.SchLib
+DocumentPath=..\..\qinlin's Altium Libraries\resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136,6 +136,40 @@ DocumentUniqueId=BLICJDZT
 
 [Document6]
 DocumentPath=..\..\qinlin's Libraries\resistors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EFEGGQAU
+
+[Document7]
+DocumentPath=..\..\qinlin's Altium Libraries\Capacitors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=..\..\qinlin's Altium Libraries\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
