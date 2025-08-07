@@ -1,3 +1,4 @@
-Record=TopLevelDocument|FileName=Battery Charger.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Battery Charger.SchDoc|FileName=Solar System Overview.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Battery Charger.SchDoc|FileName=Step-Down Converter.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Solar System Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Solar System Overview.SchDoc|Designator=Battery charger|SchDesignator=Battery charger|FileName=Battery Charger.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Battery Charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Solar System Overview.SchDoc|Designator=Panel protection|SchDesignator=Panel protection|FileName=Panel protection.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Panel protection.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Solar System Overview.SchDoc|Designator=Step down conveter|SchDesignator=Step down conveter|FileName=Step-Down Converter.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Step-Down Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
